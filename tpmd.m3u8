@@ -1,16 +1,16 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=3185600,RESOLUTION=1920x1080,CODECS="avc1.640028,mp4a.40.2"
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/hdntl=exp=1773949464~acl=/*~data=hdntl~hmac=afff0d7c5c79b7cd8f782d4f1856fde31f275eade73e5f2948a50b36c4f199d2/level_0.m3u8
+https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/hdntl=exp=1774123225~acl=/*~data=hdntl~hmac=33f3c908c4263c581ea236bb4ad80325ccaff6695ee0743f0ae7a47cb81dcc06/level_0.m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=2195600,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2"
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/hdntl=exp=1773949464~acl=/*~data=hdntl~hmac=afff0d7c5c79b7cd8f782d4f1856fde31f275eade73e5f2948a50b36c4f199d2/level_1.m3u8
+https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/hdntl=exp=1774123225~acl=/*~data=hdntl~hmac=33f3c908c4263c581ea236bb4ad80325ccaff6695ee0743f0ae7a47cb81dcc06/level_1.m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=1425600,RESOLUTION=960x540,CODECS="avc1.64001f,mp4a.40.2"
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/hdntl=exp=1773949464~acl=/*~data=hdntl~hmac=afff0d7c5c79b7cd8f782d4f1856fde31f275eade73e5f2948a50b36c4f199d2/level_2.m3u8
+https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/hdntl=exp=1774123225~acl=/*~data=hdntl~hmac=33f3c908c4263c581ea236bb4ad80325ccaff6695ee0743f0ae7a47cb81dcc06/level_2.m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=798600,RESOLUTION=640x360,CODECS="avc1.64001e,mp4a.40.2"
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/hdntl=exp=1773949464~acl=/*~data=hdntl~hmac=afff0d7c5c79b7cd8f782d4f1856fde31f275eade73e5f2948a50b36c4f199d2/level_3.m3u8
+https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/hdntl=exp=1774123225~acl=/*~data=hdntl~hmac=33f3c908c4263c581ea236bb4ad80325ccaff6695ee0743f0ae7a47cb81dcc06/level_3.m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=380600,RESOLUTION=480x270,CODECS="avc1.640015,mp4a.40.2"
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/hdntl=exp=1773949464~acl=/*~data=hdntl~hmac=afff0d7c5c79b7cd8f782d4f1856fde31f275eade73e5f2948a50b36c4f199d2/level_4.m3u8
+https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/hdntl=exp=1774123225~acl=/*~data=hdntl~hmac=33f3c908c4263c581ea236bb4ad80325ccaff6695ee0743f0ae7a47cb81dcc06/level_4.m3u8
